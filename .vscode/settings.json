@@ -1,0 +1,15 @@
+{
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Fira Code Medium, 'Courier New', monospace",
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "auto-rename-tag.activationOnLanguage": ["*"],
+  "editor.cursorWidth": 4,
+  "editor.cursorBlinking": "blink",
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#99df01"
+  }
+}
