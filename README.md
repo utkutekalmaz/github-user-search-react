@@ -2,8 +2,6 @@
 
 This project was made with with [Create React App](https://github.com/facebook/create-react-app).
 
-### a live demo lies here:
+a live demo lies here: [github-finder](https://utkutekalmaz-githubfinder.netlify.com)
 
-[visit](https://utkutekalmaz-githubfinder.netlify.com).
-
-### 'peace out'
+### `peace out`
