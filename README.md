@@ -15,6 +15,4 @@ a live demo lies here: [Github-Finder](https://utkutekalmaz-githubfinder.netlify
 
 <img src="/pics/picone.png" alt="Mobile Screen"><img src="/pics/pictwo.png" alt="Register Screen">
 
-### `peace out`
-
-# Contact Keeper
+## `peace out`
