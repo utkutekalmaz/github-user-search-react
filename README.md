@@ -2,9 +2,7 @@
 
 ## A front-end web app for searching github users
 
-<br/>
-<br/>
-<img src="/pics/picone.png" alt="Mobile Screen" width="300"> <img src="/pics/pictwo.png" alt="Register Screen" width="300">
+<img src="/pics/picone.png" alt="Mobile Screen" width="300"><img src="/pics/pictwo.png" alt="Register Screen" width="300">
 
 <br/>
 
