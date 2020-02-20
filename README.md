@@ -4,8 +4,8 @@
 
 <br/>
 <br/>
-<img src="/pics/pic2.png" alt="Mobile Screen" width="300">
-<img src="/pics/pic3.png" alt="Register Screen" width="300">
+<img src="/pics/picone.png" alt="Mobile Screen" width="300">
+<img src="/pics/pictwo.png" alt="Register Screen" width="300">
 
 <br/>
 
